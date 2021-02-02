@@ -2,6 +2,8 @@
 
 <br/>
 Hi, I'm Kaiyi Zhang, a passionate self-taught frontEnd web developer, mainly interested in information visualization and HCI.
+<br/>
+<br/>
 
 - 🔭 I’m currently working on [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
 - 👯 I’m looking to collaborate on [Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
