@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Kaiyi Zhang, a passionate self-taught frontEnd web developer, mainly interested in information visualization and HCI.
+Hi, I'm Kaiyi Zhang, a passionate self-taught frontEnd web developer, interested in information visualization and HCI.
 <br/>
 
 - 🔭 I’m currently working on [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
