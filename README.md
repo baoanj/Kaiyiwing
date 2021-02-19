@@ -5,7 +5,7 @@ Hi, I'm Kaiyi Zhang, a passionate self-taught frontEnd web developer, interested
 
 - 🔭 I’m currently working on [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
 - 👯 I’m looking to collaborate on [Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
-- 📝 I'm looking for a job about frontEnd developement
+- 📝 I'm looking for a job about front-end developement
 - 📫 How to reach me: ZHANG.Kaiyi42@gmail.com
 
 <br/>
